@@ -3,9 +3,6 @@ html {
 }
 
 body {
-  width: 300px;
-  max-width: 750px;
-  min-width: 480px;
   margin: 0 auto;
   background-color: #212121;
 }
@@ -71,8 +68,7 @@ button {
 #wrapper {
   box-sizing: border-box;
   text-align: center;
-  width: 450px;
-  height: 550px;
+  margin-top: 5%;
   background-color: #474747;
   color: #fff;
   font-size: 25px;
@@ -80,7 +76,6 @@ button {
 
 h1 {
   background-color: #161616;
-
   color: #fff;
   text-align: center;
 }
